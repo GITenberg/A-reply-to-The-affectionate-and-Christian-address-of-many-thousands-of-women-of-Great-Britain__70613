@@ -1,5 +1,8 @@
 _repo: A-reply-to-The-affectionate-and-Christian-address-of-many-thousands-of-women-of-Great-Britain__70613
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70613-h/images/cover.jpg
 creator:
   author:
     agent_name: Stowe, Harriet Beecher
@@ -15,6 +18,8 @@ creator:
 description: The "address" was a protest against slavery in the United States, signed
   by over 500,000 women, several years before the Civil War. Mrs. Stowe is now protesting
   against British sympathy with the Confederate states.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70613#A-reply-to-The-affectionate-and-Christian-address-of-many-thousands-of-women-of-Great-Britain_
 gutenberg_issued: '2023-04-21'
 identifiers:
   gutenberg: '70613'
